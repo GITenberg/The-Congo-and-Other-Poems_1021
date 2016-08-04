@@ -1,0 +1,36 @@
+_repo: The-Congo-and-Other-Poems_1021
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Monroe, Harriet
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '42079'
+    url: http://www.gutenberg.org/2009/agents/42079
+creator:
+  author:
+    agent_name: Lindsay, Vachel
+    alias: Lindsay, Nicholas Vachel
+    birthdate: 1879
+    deathdate: 1931
+    gutenberg_agent_id: '234'
+    url: http://www.gutenberg.org/2009/agents/234
+    wikipedia: http://en.wikipedia.org/wiki/Vachel_Lindsay
+description: More than 75 works, including a number of Lindsay's most popular performance
+  pieces, "The Congo" and "The Santa Fe Trail" among them, reprinted with his own
+  directions on how to recite them.
+gutenberg_issued: '1997-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1021'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Narrative poetry'
+- !lcsh 'American poetry'
+- !lcc 'PS'
+- GITenberg
+title: The Congo, and Other Poems
+url: http://www.gutenberg.org/ebooks/1021
